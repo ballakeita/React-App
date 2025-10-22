@@ -16,6 +16,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: react-app
 
       - name: Run tests
         run: npm run test
+        working-directory: react-app
