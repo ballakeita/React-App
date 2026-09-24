@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: python-app
-  description: Python app taken from the Backstage example app.
+  name: React-App
+  description: for testing
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
