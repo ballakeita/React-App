@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: React-App
   annotations:
-    #github.com/project-slug: ballakeita/udemy-python-app
+    github.com/project-slug: ballakeita/React-App
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
