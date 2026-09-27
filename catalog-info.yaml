@@ -2,12 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: React-App
-  description: for testing
-  # Example for optional annotations
-  # annotations:
-  #   github.com/project-slug: backstage/backstage
-  #   backstage.io/techdocs-ref: dir:.
+  annotations:
+    #github.com/project-slug: ballakeita/udemy-python-app
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
-  owner:  automation
-  lifecycle: experimental
+  owner: automation
